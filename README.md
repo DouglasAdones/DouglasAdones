@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @douglasadones
-- 👀 I’m interested in Python, HTLM, CSS, Dart, Flutter and Java.
+- 👀 I’m interested in Python, HTLM, CSS, Dart and Flutter..
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: contato.douglas_ad@outlook.com
