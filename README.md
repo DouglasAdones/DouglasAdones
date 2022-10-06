@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é @douglasadones
-- 👀 Estou atualmente estudando, python, Dart e Flutter.
+- 👀 Estou atualmente estudando, Python, Dart e Flutter.
 - 📫 contato: contato.douglas.ad@gmail.com
 
 <!---
