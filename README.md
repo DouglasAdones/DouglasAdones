@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @douglasadones
-- 👀 I’m interested in Python, HTLM, CSS, Dart and Flutter.
-- 🌱 I’m currently learning Flutter.
-- 📫 How to reach me: contato.douglas.ad@gmail.com
+- 👋 Olá, meu nome é @douglasadones
+- 👀 Estou atualmente estudando, python, Dart e Flutter.
+- 📫 contato: contato.douglas.ad@gmail.com
 
 <!---
 DouglasAdones/DouglasAdones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
