@@ -6,8 +6,15 @@
 
 > Caminhe com propósito, mas lembre-se de que os momentos entre a partida e o destino são o verdadeiro tesouro.
 
+## 👋 Prazer, Adones.
+Apaixonado por tecnologia, instrumentos musicais e jogos eletrônicos, adoro desafiar meus limites técnicos e motores.
 
-## Vamos Juntos Nessa Jornada :)  
+Sou estudante de Ciência da Computação na Universidade Estadual do Piauí (UESPI). Atualmente, estou estagiando na empresa FoxInline como desenvolvedor fullstack Java, onde estou desenvolvendo minhas habilidades técnicas, como resolução de problemas com Java, API REST, Spring Boot, Quarkus, JavaScript, HTML, CSS, Bootstrap, Git e GitHub, dentre outros. A rápida aprendizagem de novas tecnologias também faz parte do meu dia a dia. Tenho trabalhado bastante minhas soft skills, principalmente o trabalho em equipe, flexibilidade, comunicação, organização e gestão de tempo.
+
+Fora da área, trabalhei durante 4 anos como atendente, onde pude aprender a importância de se conectar com as pessoas e zelar por um ambiente leve e amigável. 
+
+
+## 💬 Vamos Juntos Nessa Jornada :)  
 <div align="left">  
 <a href="https://github.com/douglasadones" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
@@ -19,7 +26,7 @@
 
 <br>
 
-## Ferramentas e linguagens usadas na minha caminhada
+## 🌱 Ferramentas e linguagens usadas na minha caminhada
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -41,7 +48,7 @@
 <br/>  
 
 
-## Sobre o caminho percorrido 
+## 🔥 Sobre o caminho percorrido 
 <div align="center" dir="auto">  
 <a href="https://github.com/douglasadones" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api?username=douglasadones&show_icons=true&count_private=true&hide_border=true&theme=gruvbox_light"  style="max-width: 100%;"/>
