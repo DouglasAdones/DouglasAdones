@@ -13,7 +13,7 @@ Sou estudante de Ciência da Computação na Universidade Estadual do Piauí (UE
 
 Fora da área, trabalhei durante 4 anos como atendente, onde pude aprender a importância de se conectar com as pessoas e zelar por um ambiente leve e amigável. 
 
-Meu portifólio: https://douglasadones.github.io/Portifolio/
+Portifólio: https://douglasadones.github.io/Portifolio/
 
 ## 💬 Vamos Juntos Nessa Jornada :)  
 <div align="left">  
