@@ -16,9 +16,7 @@ Fora da área, trabalhei durante 4 anos como atendente, onde pude aprender a imp
 Portifólio: https://douglasadones.github.io/Portifolio/
 
 ## 💬 Vamos Juntos Nessa Jornada :)  
-<div align="left">  
-<a href="https://github.com/douglasadones" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
+<div align="left">
 <a href="https://linkedin.com/in/douglas-nascimento-6aa9a7252" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
 <a href="https://instagram.com/douglasadones_" target="_blank">
